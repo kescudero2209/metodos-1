@@ -1,0 +1,19 @@
+section{
+    display: flex;
+    gap:20rem;
+    border: 1px solid black;
+    background-color: #dde2e2;
+    }
+    
+    td{
+       width:8rem;
+    }
+    
+    button{
+       width:80px;
+       background-color: blue;
+       color:white;
+    }
+    div{
+       width:100%;
+    }
